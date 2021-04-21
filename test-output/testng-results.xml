@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-19T16:50:30Z" name="Default suite" finished-at="2021-04-19T16:50:54Z" duration-ms="24650">
+  <suite started-at="2021-04-21T08:11:37Z" name="Default suite" finished-at="2021-04-21T08:12:05Z" duration-ms="27996">
     <groups>
     </groups>
-    <test started-at="2021-04-19T16:50:30Z" name="Default test" finished-at="2021-04-19T16:50:54Z" duration-ms="24650">
+    <test started-at="2021-04-21T08:11:37Z" name="Default test" finished-at="2021-04-21T08:12:05Z" duration-ms="27996">
       <class name="com.test.ng.pac.TestngPackag">
-        <test-method signature="tc1()[pri:0, instance:com.test.ng.pac.TestngPackag@10f7f7de]" started-at="2021-04-19T16:50:30Z" name="tc1" finished-at="2021-04-19T16:50:35Z" duration-ms="5311" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:com.test.ng.pac.TestngPackag@4416d64f]" started-at="2021-04-21T08:11:37Z" name="tc1" finished-at="2021-04-21T08:11:46Z" duration-ms="9521" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
-        <test-method signature="tc2()[pri:0, instance:com.test.ng.pac.TestngPackag@10f7f7de]" started-at="2021-04-19T16:50:35Z" name="tc2" finished-at="2021-04-19T16:50:41Z" duration-ms="6537" status="PASS">
+        <test-method signature="tc2()[pri:0, instance:com.test.ng.pac.TestngPackag@4416d64f]" started-at="2021-04-21T08:11:46Z" name="tc2" finished-at="2021-04-21T08:11:53Z" duration-ms="6530" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc2 -->
-        <test-method signature="tc3()[pri:0, instance:com.test.ng.pac.TestngPackag@10f7f7de]" started-at="2021-04-19T16:50:41Z" name="tc3" finished-at="2021-04-19T16:50:54Z" duration-ms="12772" status="PASS">
+        <test-method signature="tc3()[pri:0, instance:com.test.ng.pac.TestngPackag@4416d64f]" started-at="2021-04-21T08:11:53Z" name="tc3" finished-at="2021-04-21T08:12:05Z" duration-ms="11921" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc3 -->
